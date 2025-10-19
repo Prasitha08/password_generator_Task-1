@@ -14,5 +14,14 @@ A password generator is a tool that creates strong, random passwords to enhance 
 
 ✅ Final password is displayed.
 
+# Open in google colab
+https://colab.research.google.com/drive/1ajvJ4_UggNOfoDmPeeXPzGK62n7T4AVS?usp=sharing
+
+# How to Run
+1. Open notebook in google colab using the link above.
+2. Generate the password according to the length, upper & lower cases and special case.
+3. Run and generate the password.
+
+
 
 
